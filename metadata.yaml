@@ -1,0 +1,30 @@
+_repo: Songs-of-Two-Nations_8127
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Swinburne, Algernon Charles
+    aliases:
+    - Maitland, A. C. (Algernon Charles)
+    - Maitland, Thomas
+    birthdate: 1837
+    deathdate: 1909
+    gutenberg_agent_id: '832'
+    url: http://www.gutenberg.org/2009/agents/832
+    wikipedia: http://en.wikipedia.org/wiki/Algernon_Swinburne
+description: A song of Italy. -- Ode on the proclamation of the French republic. --
+  Diræ
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8127'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Poetry'
+- GITenberg
+tableOfContents: A song of Italy -- Ode on the proclamation of the French Republic.
+title: Songs of Two Nations
+url: http://www.gutenberg.org/ebooks/8127
